@@ -41,7 +41,7 @@ To upgrade to the latest version of sparklyr, run the following command and rest
 
 ```{r, eval=FALSE}
 install.packages("devtools")
-devtools::install_github("sparklyr/sparklyr")
+devtools::install_github("sparklyr/sparklyr@main")
 ```
 
 ## Connecting to Spark
